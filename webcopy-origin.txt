@@ -1,0 +1,552 @@
+Uri: https://code.jivo.ru/widget/CwFuZoNSnl
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\widget\CwFuZoNSnl
+Content Type: application/javascript
+
+Uri: https://grenminer.com/
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\index.htm
+Content Type: text/html
+
+Uri: https://grenminer.com/apple-touch-icon.png
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://grenminer.com/auth
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\auth.html
+Content Type: text/html
+
+Uri: https://grenminer.com/bounty
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\bounty.html
+Content Type: text/html
+
+Uri: https://grenminer.com/bounty_account
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\bounty_account.html
+Content Type: text/html
+
+Uri: https://grenminer.com/css/main.min.css?v=20211002.1
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\css\main.min.css
+Content Type: text/css
+
+Uri: https://grenminer.com/deposit
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\deposit.html
+Content Type: text/html
+
+Uri: https://grenminer.com/faq
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\faq.html
+Content Type: text/html
+
+Uri: https://grenminer.com/files/72e32fbe592a75e5c69c7b072f0e9ddd.png
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\files\72e32fbe592a75e5c69c7b072f0e9ddd.png
+Content Type: image/png
+
+Uri: https://grenminer.com/fonts/OpenSans-Bold/OpenSans-Bold.eot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Bold\OpenSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/OpenSans-Bold/OpenSans-Bold.eot?
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Bold\OpenSans-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/OpenSans-Bold/OpenSans-Bold.ttf
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Bold\OpenSans-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://grenminer.com/fonts/OpenSans-Bold/OpenSans-Bold.woff
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Bold\OpenSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://grenminer.com/fonts/OpenSans-Regular/OpenSans-Regular.eot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Regular\OpenSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/OpenSans-Regular/OpenSans-Regular.eot?
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Regular\OpenSans-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/OpenSans-Regular/OpenSans-Regular.ttf
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Regular\OpenSans-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://grenminer.com/fonts/OpenSans-Regular/OpenSans-Regular.woff
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-Regular\OpenSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://grenminer.com/fonts/OpenSans-SemiBold/OpenSans-SemiBold.eot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-SemiBold\OpenSans-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/OpenSans-SemiBold/OpenSans-SemiBold.eot?
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-SemiBold\OpenSans-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/OpenSans-SemiBold/OpenSans-SemiBold.ttf
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-SemiBold\OpenSans-SemiBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://grenminer.com/fonts/OpenSans-SemiBold/OpenSans-SemiBold.woff
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\OpenSans-SemiBold\OpenSans-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://grenminer.com/fonts/Roboto-Bold/Roboto-Bold.eot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Bold\Roboto-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/Roboto-Bold/Roboto-Bold.eot?
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Bold\Roboto-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/Roboto-Bold/Roboto-Bold.ttf
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Bold\Roboto-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://grenminer.com/fonts/Roboto-Bold/Roboto-Bold.woff
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Bold\Roboto-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://grenminer.com/fonts/Roboto-Medium/Roboto-Medium.eot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Medium\Roboto-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/Roboto-Medium/Roboto-Medium.eot?
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Medium\Roboto-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/Roboto-Medium/Roboto-Medium.ttf
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Medium\Roboto-Medium.ttf
+Content Type: application/font-sfnt
+
+Uri: https://grenminer.com/fonts/Roboto-Medium/Roboto-Medium.woff
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Medium\Roboto-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://grenminer.com/fonts/Roboto-Regular/Roboto-Regular.eot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Regular\Roboto-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/Roboto-Regular/Roboto-Regular.eot?
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Regular\Roboto-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://grenminer.com/fonts/Roboto-Regular/Roboto-Regular.ttf
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Regular\Roboto-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://grenminer.com/fonts/Roboto-Regular/Roboto-Regular.woff
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\fonts\Roboto-Regular\Roboto-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://grenminer.com/forgot
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\forgot.html
+Content Type: text/html
+
+Uri: https://grenminer.com/img/elements/benefit-decor.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\benefit-decor.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/benefits-decor.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\benefits-decor.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-element-left.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-element-left.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-element-right.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-element-right.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-item-left.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-item-left.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-item-right.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-item-right.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-item-summ-left.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-item-summ-left.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-item-summ-right.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-item-summ-right.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-next-step.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-next-step.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/calc-profit-result.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\calc-profit-result.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/conditions-after.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\conditions-after.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/conditions-before.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\conditions-before.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/deposit-title-before.png
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\deposit-title-before.png
+Content Type: image/png
+
+Uri: https://grenminer.com/img/elements/display-before.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\display-before.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/double-line.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\double-line.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/line-left.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\line-left.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/line-right.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\line-right.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/numbers-after.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\numbers-after.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/numbers-before.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\numbers-before.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/plan-after.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\plan-after.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/plan-before.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\plan-before.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/section-after.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\section-after.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/step-lines.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\step-lines.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/tariff-after.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\tariff-after.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/tariff-bd.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\tariff-bd.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/elements/why-lines.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\elements\why-lines.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/favicon/favicon-16x16.png
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://grenminer.com/img/favicon/favicon-32x32.png
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://grenminer.com/img/icons/currency/bnb.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\currency\bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/currency/doge.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\currency\doge.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/currency/ltc.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\currency\ltc.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/currency/trx.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\currency\trx.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/currency/usdt.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\currency\usdt.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/currency/xlm.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\currency\xlm.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-account-circle.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-account-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-add-circle.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-add-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-add-user.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-add-user.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-analytics.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-analytics.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-arrow-down-md-accent.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-arrow-down-md-accent.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-arrow-down-md.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-arrow-down-md.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-arrow-down.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-arrow-up.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-bitcoin-b.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-bitcoin-b.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-bitcoin-wallet-big.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-bitcoin-wallet-big.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-bitcoin-wallet.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-bitcoin-wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-bitcoin-world.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-bitcoin-world.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-calendar.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-cancel.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-cancel.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-check.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-chipization.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-chipization.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-cryptocurrency.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-cryptocurrency.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-deposit.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-deposit.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-email.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-email.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-error.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-error.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-expand-more.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-expand-more.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-feedback.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-feedback.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-form.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-form.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-gold-bars.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-gold-bars.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-management.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-management.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-money-transfer.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-money-transfer.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-person-outline.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-person-outline.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-presentation.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-presentation.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-privacy.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-privacy.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-protected.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-protected.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-question.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-question.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-report.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-report.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-shield.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-shield.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-social-network.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-social-network.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-success.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-success.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-ticket.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-ticket.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-video.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-video.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/icon-vpn-key.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\icon-vpn-key.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/social/icon-telegram.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\social\icon-telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/icons/wait.gif
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\icons\wait.gif
+Content Type: image/gif
+
+Uri: https://grenminer.com/img/illustrations/ill-gear.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-gear.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-hand.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-hand.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-mac-before.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-mac-before.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-mac.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-mac.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-people.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-people.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-peoples.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-peoples.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-socials.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-socials.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-user-outline.png
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-user-outline.png
+Content Type: image/png
+
+Uri: https://grenminer.com/img/illustrations/ill-vebinars.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-vebinars.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/illustrations/ill-video-system.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\illustrations\ill-video-system.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/bnb.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/btc.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\btc.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/doge.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\doge.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/eth.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\eth.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/logo.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/ltc.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\ltc.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/trx.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\trx.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/usdt.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\usdt.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/usdte.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\usdte.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/xlm.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\xlm.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/img/logos/xrp.svg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\img\logos\xrp.svg
+Content Type: image/svg+xml
+
+Uri: https://grenminer.com/info
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\info.html
+Content Type: text/html
+
+Uri: https://grenminer.com/js/common.js?v=20211002.1
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\js\common.js
+Content Type: application/javascript
+
+Uri: https://grenminer.com/js/libs.min.js?v=20211002.1
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://grenminer.com/policy
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\policy.html
+Content Type: text/html
+
+Uri: https://grenminer.com/reg
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\reg.html
+Content Type: text/html
+
+Uri: https://grenminer.com/reviews
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\reviews.html
+Content Type: text/html
+
+Uri: https://grenminer.com/support
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\support.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/89085954
+File Name: C:\Users\nolipc\Desktop\CLONARWEB 2\grenminer.com\watch\89085954
+Content Type: image/gif
+
